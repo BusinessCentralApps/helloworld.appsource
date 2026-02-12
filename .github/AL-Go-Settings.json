@@ -1,5 +1,6 @@
 {
   "type": "AppSource App",
   "templateUrl": "https://github.com/microsoft/AL-Go-AppSource@main",
-  "templateSha": "bf05ca89f5e08889a1d14f9a150356f141b5a632"
+  "templateSha": "bf05ca89f5e08889a1d14f9a150356f141b5a632",
+  "PullRequestTrigger": "pull_request"
 }
